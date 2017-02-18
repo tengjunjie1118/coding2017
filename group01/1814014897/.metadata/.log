@@ -49,3 +49,15 @@ Caused by: java.net.SocketTimeoutException: Read timed out
 	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:259)
 	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
 	... 16 more
+
+!ENTRY org.eclipse.jface.text 2 0 2017-02-18 23:29:34.667
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-02-18 23:29:34.668
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-02-18 23:29:34.894
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-02-18 23:29:34.896
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
